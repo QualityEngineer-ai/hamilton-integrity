@@ -1,0 +1,3 @@
+# Byte-exact: OpenTimestamps proofs cover the raw bytes of each manifest.
+releases/** -text
+*.ots binary
