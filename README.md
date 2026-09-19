@@ -94,6 +94,8 @@ From `releases/1.2.1/manifest.json`:
 - Cross check: 85,117 cases, 0 mismatches on the engine side.
 - Repeatability and reproducibility: 280,224 trials, 0 mismatches.
 - Agent agreement: 32 of 32 blind trials correct.
+- Bitcoin timestamp: confirmed in block 967,720, mined 2026-09-19 15:44:31 UTC
+  (merkle root `6103bcbe…77be44`, checkable on any block explorer).
 
 Validation of the previous engine found real defects (an output that could
 depend on JSON key order, a crash on long bond schedules, a mislabelled
